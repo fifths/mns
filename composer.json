@@ -1,0 +1,21 @@
+{
+  "name": "fifths/php-mns",
+  "description": "php mns class",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "lee",
+      "email": "ligangmingx@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5",
+    "guzzlehttp/guzzle": "^6.3",
+    "psr/http-message": "^1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "AliyunMNS\\": "src/AliyunMNS/"
+    }
+  }
+}
