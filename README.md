@@ -1,5 +1,7 @@
 # php-mns
 
+Version 1.3.5
+
 ## Install
 
 ```
